@@ -26,7 +26,9 @@ class App extends Component {
           </Navbar>
             <Row>
               <Col>
-                <h1 className="intro-name">I'm Erwin Lee.</h1>
+                <div className="typewriter">
+                  <h1 className="intro-name">I'm Erwin Lee.</h1>
+                </div>
                 <h3 className="brief-intro">
                   I'm a Singapore based <span className="jwd">junior web developer</span>, looking to take on new and interesting projects using new frameworks under great mentorship guidance.
                 </h3>
