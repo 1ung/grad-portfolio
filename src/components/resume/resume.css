@@ -1,0 +1,28 @@
+.education-intro, .work-intro {
+    text-align: left;
+}
+
+.education-row {
+    padding-bottom: 50px;
+}
+
+.work-row {
+    padding-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.education-title, .work-title {
+    border-bottom: 3px solid #11ABB0;
+    padding-bottom: 6px;
+}
+
+.education-header, .work-header {
+    padding-top: 20px;
+}
+
+.Resume {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #ebeeee;
+}

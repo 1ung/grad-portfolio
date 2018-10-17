@@ -1,0 +1,17 @@
+.Portfolio {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.project-title {
+    padding-bottom: 50px;
+}
+
+.portfolio-row {
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+.thumbnail {
+    border-style: none;
+}
